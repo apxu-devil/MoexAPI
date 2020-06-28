@@ -1,0 +1,13 @@
+Package: MoexAPI
+Type: Package
+Title: Loads data from MOEX.com
+Version: 0.0.0.9000
+Depends: R(>= 3.5.0), rvest, dplyr
+Imports: rvest, dplyr
+Author: Andrei Arkhipov
+Maintainer: Andrei Arkhipov <arh.andr@gmail.com>
+Description: Loads data from MOEX.com, using API and scrapping some pages
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0

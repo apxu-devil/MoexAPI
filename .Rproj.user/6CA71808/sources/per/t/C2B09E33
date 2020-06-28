@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591971979956.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "392435522",
+    "id" : "C2B09E33",
+    "lastKnownWriteTime" : 1593269750,
+    "last_content_update" : 1593269750222,
+    "path" : "~/MyR/MoexAPI/R/moex_api.R",
+    "project_path" : "R/moex_api.R",
+    "properties" : {
+        "cursorPosition" : "377,55",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

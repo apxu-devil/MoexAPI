@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593351043741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2966499281",
+    "id" : "ED2631D6",
+    "lastKnownWriteTime" : 1593352272,
+    "last_content_update" : 1593352272311,
+    "path" : "~/MyR/MoexAPI/R/issGcurve.R",
+    "project_path" : "R/issGcurve.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

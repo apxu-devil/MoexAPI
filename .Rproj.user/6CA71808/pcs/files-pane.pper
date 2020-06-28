@@ -1,0 +1,9 @@
+{
+    "path" : "~/MyR/MoexAPI",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

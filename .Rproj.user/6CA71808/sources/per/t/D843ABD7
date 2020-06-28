@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592205107242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2120009696",
+    "id" : "D843ABD7",
+    "lastKnownWriteTime" : 1592299284,
+    "last_content_update" : 1592299284595,
+    "path" : "~/MyR/MoexAPI/R/history.R",
+    "project_path" : "R/history.R",
+    "properties" : {
+        "cursorPosition" : "11,58",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
